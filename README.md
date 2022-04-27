@@ -2,7 +2,7 @@
 
 
 
-# Title: Continued Emergence and Evolution of Omicron in South Africa: New BA.4 and BA.5 sub-lineages
+# Continued Emergence and Evolution of Omicron in South Africa: New BA.4 and BA.5 sub-lineages
 
  
 
