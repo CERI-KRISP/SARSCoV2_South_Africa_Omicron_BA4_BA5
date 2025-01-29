@@ -1,10 +1,6 @@
-### This repository will be updated with all materials soon. Please direct any specific queries to houriiyah.tegally@gmail.com and sanemmanueljames@gmail.com.
-
-
-
-# Continued Emergence and Evolution of Omicron in South Africa: New BA.4 and BA.5 sub-lineages
-
+# Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa
  
+Nat Med 28, 1785–1790 (2022). https://doi.org/10.1038/s41591-022-01911-2
 
 Authors: Houriiyah Tegally1,2, Monika Moir1, Josie Everatt3, Marta Giovanetti4,5, Cathrine Scheepers3,6, Eduan Wilkinson1, Kathleen Subramoney7, Sikhulile Moyo8,9,10, Daniel G. Amoako3, Cheryl Baxter1, Christian L., Althaus11, Ugochukwu J. Anyaneji2, Dikeledi Kekana3, Raquel Viana12, Jennifer Giandhari2, Richard J. Lessells2, Tongai Maponga13, Dorcas Maruapula8, Wonderful Choga8, Mogomotsi Matshaba10, Simnikiwe Mayaphi14, Nokuzola Mbhele15, Mpaphi B. Mbulawa16, Nokukhanya Msomi17, NGS-SA consortium, Yeshnee Naidoo1, Sureshnee Pillay2, Tomasz Janusz Sanko1, James E. San2, Lesley Scott18, Lavanya Singh2, Nonkululeko A. Magini2, Pamela Smith-Lawrence19, Wendy Stevens18,20, Graeme Dor18, Derek Tshiabuila2, Nicole Wolter12, Wolfgang Preiser13, Florette K. Treurnicht7, Marietjie Venter21, Michaela Davids21, Georginah Chiloane21, Adriano Mendes21, Caitlyn McIntyre21, Aine O’Toole22, Christopher Ruis23, Thomas P. Peacock24, Cornelius Roemer25, Carolyn Williamson15,26,27,28, Oliver G. Pybus29, Jinal Bhiman3,6, Allison Glass12,30, Darren P. Martin27,28, Andrew Rambaut22, Simani Gaseitsiwe8,9, Anne von Gottberg3,30 & Tulio de Oliveira1,2,31*
 
